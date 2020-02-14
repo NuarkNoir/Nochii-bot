@@ -1,0 +1,13 @@
+{
+    "name": "nuark/nochiibot",
+    "description": "Telegram bot, which will delete any message from your chat with chinese symbols in it.",
+    "authors": [
+        {
+            "name": "Andrew `@nuark` G.",
+            "email": "me@nuark.xyz"
+        }
+    ],
+    "require": {
+        "radyakaze/phptelebot": "dev-master"
+    }
+}

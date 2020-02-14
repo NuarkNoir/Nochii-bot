@@ -1,0 +1,61 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "e22186b1eb7f2ef5c2375d4f0bf6aaa9",
+    "packages": [
+        {
+            "name": "radyakaze/phptelebot",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/radyakaze/phptelebot.git",
+                "reference": "f3af144c1f4418ab7bc307658e8ca91de1b7eb87"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/radyakaze/phptelebot/zipball/f3af144c1f4418ab7bc307658e8ca91de1b7eb87",
+                "reference": "f3af144c1f4418ab7bc307658e8ca91de1b7eb87",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "php": ">=5.4"
+            },
+            "type": "framework",
+            "autoload": {
+                "files": [
+                    "src/PHPTelebot.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Radya",
+                    "email": "radya@gmx.com"
+                }
+            ],
+            "description": "Telegram bot framework written in PHP.",
+            "keywords": [
+                "bot",
+                "telegram"
+            ],
+            "time": "2017-08-11T08:31:29+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "radyakaze/phptelebot": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
